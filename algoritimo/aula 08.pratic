@@ -1,0 +1,13 @@
+nome= Yuri
+SE (nome == Yuri)
+{
+    código
+    código
+    código
+}
+CASO CONTRARIO
+{
+    código
+    código
+    código 
+}

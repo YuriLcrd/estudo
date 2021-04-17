@@ -1,0 +1,14 @@
+ALGORITIMO: pegar onibus
+
+ir até a parada
+ENQUANTO onibus não chega
+      esperar o onibus
+subir no onibus
+pegar o cartão de passagem 
+SE não há creditono cartão 
+    Pegar dinheiro
+Pagar o cobrador
+Troco = dinheiro - valor da passagem
+ENQUANTO banco não está vazio
+      IR PARA O PRÓXIMO
+sentar

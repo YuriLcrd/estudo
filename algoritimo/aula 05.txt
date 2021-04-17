@@ -1,0 +1,9 @@
+ALLGORITMO: Calculo do valor da passagem
+
+idade = IDADE DA PESSOA
+preço = 5
+
+SE a idade < 65
+    DIZER: o preço e preço
+CASO CONTRARIO
+    DIZER: o preço e GRATIS

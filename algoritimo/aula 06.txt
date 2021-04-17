@@ -1,0 +1,11 @@
+ALGORITMO: CALCULO DE GRATIFICAÇÃO
+
+titulo = RECEBE TITULO DA PESSOA
+SALARIO = 15000
+
+SE titulo = DOUTOR
+     SALARIO = salario * 3 
+SE titulo = MESTRE
+     SALARIO = salario *2
+
+     MOSTRAR: seu salario é SALARIO reais

@@ -1,0 +1,16 @@
+SE o pneu estiver furado:
+pegar as ferramentas
+inserir macaco em baixo do carro
+levantar macaco levemente
+afroxar os parafusos da roda
+lavantar o macaco ate a roda sair do chão
+retira totalmente os parafusos
+retira a roda
+insere a nova roda
+abaixa o macaco levemente
+insere os parafusos
+aperta os parafusos
+retira o macaco
+re-aperta os parafusos
+CASO CONTRARIO:
+dirigir até o destino

@@ -1,0 +1,12 @@
+X = 1 
+
+<
+>
+=
+<=
+>=
+!=
+
+ENQUANTO (X <= 10)
+x = X + 1
+mostrar na tela: x
