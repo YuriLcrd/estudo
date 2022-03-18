@@ -11,7 +11,7 @@
     
 
     $X = number_format(8.2578419, 2);
-    echo $X."<br/>"; //Formata numeros de diversas fomras possiveis
+    echo $X."<br/>"; //Formata numeros de diversas formas possiveis
     
     $texto = "minha cachorra mordeu meu chinelo!";
     $string = str_replace("mordeu", "destruiu", $texto);
@@ -20,14 +20,14 @@
     echo strtolower("YURI GUIMARAES")."<br/>";//transformar tudo que está maiusculo em minusculo
     echo strtoupper("yuri lacerda")."<br/>"; //transformar tudo que  esta minusculo em maisculo
 
-    $substr = "YURI LACERDA";
-    $xx = substr($substr, 0, 4);
+    $substr = "YURI GUIMARÃES LACERDA";
+    $xx = substr($substr, 0, 10);
         echo $xx."<br/>"; // Função é voce pegar parte de uma string
 
-    $ucfirst = "laila";
+    $ucfirst = "fulano";
         echo ucfirst($ucfirst)."<br/>"; //tem função de transformar a primeira letra da primeira palavra de uma string em Maiusculo
 
-    $ucwords = "laila gabriely sampaio lima";
+    $ucwords = "fulano de tal de tal";
         echo ucwords($ucwords)."<br/>";// tem função de modificar todas as palavras colocando todas as primeiras letras em maiusculo
      
 ?>
